@@ -2,4 +2,4 @@ Projeto onde trabalho com iframe de maneira interativa, focado em aperfeiçoar e
 
 Importante ressaltar que algumas redes sociais não utilizo com frequência, por conta disso, visando divulgar o trabalho incrível e prestar meus agradecimento ao meu professor, fiz questão de deixar as redes sociais dele em certas opções.
 
-Para visualizar o site<a href="" target="_blank" rel="next"> Clique aqui! </a>
+Para visualizar o site<a href="https://wallissondev.github.io/projeto-redes-sociais/" target="_blank" rel="next"> Clique aqui! </a>
